@@ -38,12 +38,12 @@ Optional feature to connect users with trained volunteers or supportive peers fo
 
 ### 🌱 Healing Milestones
 Small, daily goals that promote self-care and growth:
-- “Take a 5-minute walk.”
+- “Take a 5 minute walk.”
 - “Write one thing you’re grateful for.”
 - “Reach out to someone you trust.”
 
 ### 🫂 Community Circles
-Anonymous group spaces where people can share, support, and heal together — through stories, art, or words.
+Anonymous group spaces where people can share, support, and heal together through stories, art, or words.
 
 ### ❤️ Resource Hub
 Curated links to free mental health services, hotlines, and rehab centers, based on region.
