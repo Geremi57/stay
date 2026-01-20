@@ -1,15 +1,15 @@
 # 🌙 Stay
 
-> **Stay** — because one more day can change everything.
+> **Stay** because one more day can change everything.
 
-**Stay** is a safe digital space built to support people struggling with mental health challenges — depression, suicidal thoughts, or addiction.  
+**Stay** is a safe digital space built to support people struggling with mental health challenges depression, suicidal thoughts, or addiction.  
 It’s for anyone who feels lost and just needs one simple reminder: *you are not alone.*
 
 ---
 
 ## 💡 About the Project
 
-**Stay** is more than just an app — it’s a message.
+**Stay** is more than just an app it’s a message.
 
 A message that says *“Don’t give up yet.”*  
 Through gentle interaction, positive reinforcement, and access to real human connection, **Stay** helps users take small steps toward healing and hope.
